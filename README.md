@@ -1,5 +1,24 @@
-# Awesome-QuantDev-Learn
-面向零基础或初中级开发者，系统性学习量化开发的技术路线，从数据获取、策略开发、回测系统到实盘部署。
+
+<h1 align="center">📘 量化开发学习整理   
+	 Awesome-QuantDev-Learn</h1>
+<p align="center">
+  <strong>嵌入式软件学习路线图 · C语言 / RTOS / Linux驱动 · 从入门到进阶</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0voice/Awesome-QuantDev-Learn/stargazers">
+    <img src="https://img.shields.io/github/stars/0voice/Awesome-QuantDev-Learn?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/0voice/Awesome-QuantDev-Learn/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg" alt="License: CC BY-NC-SA 4.0">
+  </a>
+  <a href="https://github.com/0voice/Awesome-QuantDev-Learn">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
+  <a href="#📬-如何参与贡献"></a>
+</p>
+
+
 
 ---
 
