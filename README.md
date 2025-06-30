@@ -1,8 +1,8 @@
 
-<h1 align="center">📘 量化开发学习整理   
-	 Awesome-QuantDev-Learn</h1>
+<h1 align="center">📘 量化开发学习整理  
+	Awesome-QuantDev-Learn</h1>
 <p align="center">
-  <strong>嵌入式软件学习路线图 · C语言 / RTOS / Linux驱动 · 从入门到进阶</strong>
+  <strong>量化开发学习路线 * 量化基础/C++/Python * 从入门到进阶</strong>
 </p>
 
 <p align="center">
