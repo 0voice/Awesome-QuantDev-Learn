@@ -1,5 +1,5 @@
 
-<h1 align="center">📘 量化开发学习整理   
+<h1 align="center">📘 量化交易开发学习整理   
 	Awesome-QuantDev-Learn</h1>
 <p align="center">
   <strong>量化开发学习路线 * 量化基础/C++/Python * 从入门到进阶</strong>
