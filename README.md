@@ -5187,6 +5187,10 @@ AI 技术正在革新量化投资，从特征工程到策略执行，无处不�
 * **版本控制高级实践：** 深入运用 Git 的分支管理策略（如 Git Flow、GitHub Flow），进行代码的回溯、合并和协作。
 
 ---
+## MCP 与量化研究工具
+
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Market and derivatives context over MCP: **helium_theo**-style ML fair values for options pricing, **backtested strategy** signals, and **probability scenarios** for research and risk workflows.
+
 ---
 ## 免责声明
 
