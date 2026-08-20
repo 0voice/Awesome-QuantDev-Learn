@@ -1738,6 +1738,7 @@ print(df.head())
 * **聚宽（JoinQuant）**
 * **米筐（RiceQuant）**
 * **BigQuant**
+* [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs. Commercial service; free tier available.
   通常提供API接口、数据订阅服务，部分免费或付费。
 
 #### 3. 交易所官网与数据提供商
