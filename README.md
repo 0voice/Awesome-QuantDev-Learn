@@ -905,6 +905,7 @@ X_new = pca.fit_transform(data_matrix)
 | **Yahoo Finance API** | 可获取美股、基金数据     |
 | **Bloomberg**         | 高端全面服务，需专线与授权  |
 | **Quandl**            | 提供金融、经济、另类数据接口 |
+| **Eulerpool**         | 全球股票、财报、宏观、加密货币与外汇数据 REST API，提供 Python/C++ SDK，有免费额度 |
 
 ```python
 # 示例：用 Tushare 获取沪深300成分股
