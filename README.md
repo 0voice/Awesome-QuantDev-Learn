@@ -4902,6 +4902,7 @@ docker run -d --name strat1 my-strategy:latest
           * **Windows：** 您通常需要从 [TA-Lib 官方网站](https://www.google.com/search?q=http://ta-lib.org/hdr_dw.html) 下载 `ta-lib-0.4.0-msvc.zip`，解压它（例如，到 `C:\ta-lib`），然后安装 Python 的 `TA-Lib` 包。**更简单的替代方案是找到预编译的 `.whl` 文件** (例如在 [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/) 这样的网站上搜索 `TA_Lib`，下载对应您 Python 版本的 `.whl` 文件，然后使用 `pip install your_downloaded_file.whl` 进行安装)。
           * **macOS/Linux：** 通常可以通过包管理器（如 `brew install ta-lib` 或 `sudo apt-get install ta-lib`）安装 C 库，然后使用 `pip install TA-Lib`。
       * [TA-Lib Python Wrapper GitHub 页面](https://github.com/mrjbq7/ta-lib) (包含安装说明)
+      * [Mode VC Chart of the Day](https://modevc.com/charts/) - 39 daily empirical AI market charts tracking LMSYS Arena leaderboards, API pricing deflation, and developer SDK adoption.
 
 -----
 
